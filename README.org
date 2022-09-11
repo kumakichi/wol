@@ -1,0 +1,8 @@
+* About
+
+  Wake on LAN magic packet generator for golang.
+  
+  Original code comes from [[https://github.com/sabhiram/go-wol][go-wol]], also [[https://github.com/timofurrer/WOL][WOL]]
+
+* How to use
+  See [[https://github.com/kumakichi/wol/blob/master/cmd/wol/wol.go][cmd/wol/wol.go]]
